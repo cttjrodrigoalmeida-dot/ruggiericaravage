@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.wrangler/
+.dev.vars
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
+
+# Materiais-fonte de criação mantidos apenas localmente
+APRESENTAÇÃO/
+IDEIAS/
+LOGOS/
+ESTRUTURA LP.pdf

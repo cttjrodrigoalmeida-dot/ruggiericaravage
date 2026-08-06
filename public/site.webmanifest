@@ -1,0 +1,25 @@
+{
+  "name": "Ruggieri Caravage 11033",
+  "short_name": "Ruggieri 11033",
+  "description": "Ruggieri Caravage - candidato a Deputado Estadual pelo Paraná.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f4f7f5",
+  "theme_color": "#073d63",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
