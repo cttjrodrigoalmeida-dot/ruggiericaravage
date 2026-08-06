@@ -190,7 +190,7 @@ function App() {
         <div className="hero__frame" aria-hidden="true" />
         <nav className="hero__nav container" aria-label="Navegação principal">
           <a className="nav__brand" href="#inicio" aria-label="Ruggieri Caravage - início">
-            <img src="/assets/logo-principal.png" alt="Ruggieri Caravage" width="2937" height="906" decoding="async" />
+            <img src="/assets/logo-principal.webp" alt="Ruggieri Caravage" width="2937" height="906" decoding="async" />
           </a>
 
           <div className={`nav__links ${menuOpen ? 'is-open' : ''}`}>
@@ -215,7 +215,7 @@ function App() {
           </button>
         </nav>
 
-        <img className="mobile-mark" src="/assets/logo-gg.png" alt="GG" width="1785" height="1065" decoding="async" />
+        <img className="mobile-mark" src="/assets/logo-gg.webp" alt="GG" width="1785" height="1065" decoding="async" />
 
         <a className="hero__scroll" href="#ruggieri" aria-label="Conheça o projeto de Ruggieri Caravage">
           <span>Conheça o projeto</span>
@@ -328,7 +328,7 @@ function App() {
               </p>
               <img
                 className="proposals__logo reveal"
-                src="/assets/logo-numero.png"
+                src="/assets/logo-numero.webp"
                 alt="Ruggieri Caravage 11033"
                 width="1717"
                 height="932"
@@ -374,7 +374,7 @@ function App() {
       <footer className="footer">
         <div className="container footer__inner">
           <img
-            src="/assets/logo-principal.png"
+            src="/assets/logo-principal.webp"
             alt="Ruggieri Caravage"
             width="2937"
             height="906"

@@ -10,16 +10,10 @@
   "theme_color": "#073d63",
   "icons": [
     {
-      "src": "/favicon.png",
+      "src": "/favicon-ribbon-transparent.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
-    },
-    {
-      "src": "/favicon.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
     }
   ]
 }
