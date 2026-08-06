@@ -217,7 +217,7 @@ function App() {
 
         <img className="mobile-mark" src="/assets/logo-gg.png" alt="GG" width="1785" height="1065" decoding="async" />
 
-        <a className="hero__scroll" href="#ruggieri">
+        <a className="hero__scroll" href="#ruggieri" aria-label="Conheça o projeto de Ruggieri Caravage">
           <span>Conheça o projeto</span>
           <ArrowDown size={17} />
         </a>
