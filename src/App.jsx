@@ -215,7 +215,7 @@ function App() {
           </button>
         </nav>
 
-        <img className="mobile-mark" src="/assets/logo-gg.webp" alt="GG" width="1785" height="1065" decoding="async" />
+        <img className="mobile-mark" src="/assets/logo-mobile-no-number.webp" alt="Ruggieri Caravage" width="1785" height="560" decoding="async" />
 
         <a className="hero__scroll" href="#ruggieri" aria-label="Conheça o projeto de Ruggieri Caravage">
           <span>Conheça o projeto</span>
@@ -255,17 +255,17 @@ function App() {
             <div className="about__visual reveal">
               <div className="about__mockup">
                 <img
-                  src="/assets/mockup-social.webp"
-                  alt="Aplicações da identidade de Ruggieri nas redes sociais"
-                  width="1800"
-                  height="1200"
+                  src="/assets/mockup-no-number.webp"
+                  alt="Aplicações da identidade visual de Ruggieri"
+                  width="1600"
+                  height="900"
                   loading="lazy"
                   decoding="async"
                 />
               </div>
               <div className="about__badge">
                 <span>PARANÁ</span>
-                <strong>11033</strong>
+                <strong>PRESENTE</strong>
               </div>
             </div>
           </div>
@@ -328,10 +328,10 @@ function App() {
               </p>
               <img
                 className="proposals__logo reveal"
-                src="/assets/logo-numero.webp"
-                alt="Ruggieri Caravage 11033"
-                width="1717"
-                height="932"
+                src="/assets/logo-section-no-number.webp"
+                alt="Ruggieri Caravage"
+                width="2937"
+                height="906"
                 loading="lazy"
                 decoding="async"
               />

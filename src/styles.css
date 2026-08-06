@@ -105,7 +105,7 @@ img {
 .hero__frame {
   position: absolute;
   inset: -4% 0;
-  background: url('/assets/hero-ruggieri.webp') center / cover no-repeat;
+  background: url('/assets/hero-ruggieri-no-number.webp') center / cover no-repeat;
   will-change: transform;
 }
 
@@ -359,7 +359,9 @@ img {
 
 .about__badge strong {
   font-family: 'Montserrat Variable', sans-serif;
-  font-size: 1.85rem;
+  margin-top: 0.22rem;
+  font-size: 0.92rem;
+  letter-spacing: 0.08em;
   line-height: 1;
 }
 
@@ -969,7 +971,7 @@ img {
   }
 
   .about__badge strong {
-    font-size: 1.5rem;
+    font-size: 0.76rem;
   }
 
   .ticker {

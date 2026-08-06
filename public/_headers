@@ -1,7 +1,7 @@
 /assets/*
   Cache-Control: public, max-age=31536000, immutable
 
-/og-ruggieri-caravage.jpg
+/og-ruggieri-caravage-no-number.jpg
   Cache-Control: public, max-age=86400, stale-while-revalidate=604800
 
 /favicon-ribbon-transparent.png
